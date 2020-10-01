@@ -7,3 +7,4 @@ soo if num will be divisiable with both 3 and 5 ,it will print fizzBuzz.
 if num will only divisiable with 3 ,it will print fizz
 if num will only divisiable with 5 ,it will print Buzz
 soo if num will not be divisiable with both 3 and 5 ,it will print that number.
+thank you.
